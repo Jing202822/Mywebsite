@@ -3,10 +3,17 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Weixin Image_20240810171737.jpg
 ---
 
 :::{#me}
+
+Welcome to My Portfolio
+Let's use data for good together!
+
+
+Hi! I am Jingyi Yang, a graduate student pursuing a Master of Science in Data Analytics and Computational Social Science at UMass Amherst. After earning a Bachelor's degree in Sociology and Psychology, I realized the importance of data in the daily life and had a passion for using data for good. In short, I am interested in using the various programing tools to analyze data and applying data analysis in the decision making.
+
 
 ## Goals
 
@@ -16,4 +23,5 @@ about:
 
 :::
 
-Thanks for checking out my web site!
+
+
