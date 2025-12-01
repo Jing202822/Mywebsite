@@ -2,13 +2,15 @@
 title: "About Me"
 about:
   id: me
-  template: broadside
+  template: jolla
   image: img/Weixin Image_20240810171737.jpg
+  image-shape: round
 ---
 
 :::{#me}
 
 Welcome to My Portfolio
+
 Let's use data for good together!
 
 
