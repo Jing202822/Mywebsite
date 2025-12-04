@@ -1,0 +1,18 @@
+---
+title: "CV"
+---
+
+:::{#CV}
+
+You can view my CV below or download it [here](files/Yang-MasterResume-20250905 (4).pdf).
+
+<div style="display:flex; justify-content:center; margin-top:20px;">
+  <iframe 
+      src="files/Yang-MasterResume-20250905 (4).pdf"
+      width="90%" 
+      height="900px"
+      style="border: none; box-shadow: 0 0 10px rgba(0,0,0,0.4);">
+  </iframe>
+</div>
+
+:::

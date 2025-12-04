@@ -3,11 +3,13 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Jingyi Yang"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: cv.qmd
+        text: "CV"
       - projects.qmd
     tools:
       - icon: linkedin
