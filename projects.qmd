@@ -2,8 +2,13 @@
 title: "Projects"
 ---
 
+
 ## Project 1
+
+
+[Code](https://github.com/Jing202822/Executive-Orders-and-Ideological-Leaning)
 
 ## Project 2
 
-## Project 3
+
+[Open Data Dashboard](https://jingyiyang2002.shinyapps.io/sbs_rise_connect_data_dashboard-1/)

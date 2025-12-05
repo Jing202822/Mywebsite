@@ -4,14 +4,7 @@
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 2\nOpen Data Dashboard"
   },
   {
     "objectID": "cv.html",
@@ -25,6 +18,6 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I am Jingyi Yang, a graduate student pursuing a Master of Science in Data Analytics and Computational Social Science at UMass Amherst. After earning a Bachelor’s degree in Sociology and Psychology, I realized the importance of data in the daily life and had a passion for using data for good. In short, I am interested in using the various programing tools to analyze data and applying data analysis in the decision making.\nTo learn more about me, please visit my projects and CV pages. Let’s use data for good together!"
+    "text": "Hi! I am Jingyi Yang, a graduate student pursuing a Master of Science in Data Analytics and Computational Social Science at UMass Amherst. After earning a Bachelor’s degree in Sociology and Psychology, I realized the importance of data in the daily life and had a passion for using data for good. In short, I am interested in using the various programing tools to analyze data and applying data analysis in the decision making.\nTo learn more about me, please visit my Projects and CV pages. Let’s use data for good together!"
   }
 ]
