@@ -4,34 +4,41 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Code"
+    "text": "This project aims to train a classification model that can predict whether a customer will accept a coupon. The survey data from Amazon Mechanical Turk include variables such as occupation, weather, and driving distance. It also covers demographic variables such as age, education level, and gender.\nMachine learning helps learning behavioral patterns from past data and provides predictions of coupon acceptance. This approach improves efficiency, reduces workload, and promotes strategies that can reduce expenses and increase revenue.\nLink to project"
   },
   {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
+    "objectID": "projects.html#in-vehicle-coupon-recommendation-project",
+    "href": "projects.html#in-vehicle-coupon-recommendation-project",
     "title": "Projects",
     "section": "",
-    "text": "Code"
+    "text": "This project aims to train a classification model that can predict whether a customer will accept a coupon. The survey data from Amazon Mechanical Turk include variables such as occupation, weather, and driving distance. It also covers demographic variables such as age, education level, and gender.\nMachine learning helps learning behavioral patterns from past data and provides predictions of coupon acceptance. This approach improves efficiency, reduces workload, and promotes strategies that can reduce expenses and increase revenue.\nLink to project"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html#sbs-rise-connect-program-data-dashboard-project",
+    "href": "projects.html#sbs-rise-connect-program-data-dashboard-project",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\nOpen Data Dashboard"
+    "section": "SBS RISE CONNECT program Data Dashboard Project",
+    "text": "SBS RISE CONNECT program Data Dashboard Project\nThis is the data dashboard for the SBS RISE CONNECT program from UMass Amherst. The data come from regular program records and program evaluation surveys.\nLink to Data Dashboard"
+  },
+  {
+    "objectID": "projects.html#executive-orders-and-ideological-leaning-project",
+    "href": "projects.html#executive-orders-and-ideological-leaning-project",
+    "title": "Projects",
+    "section": "Executive Orders and Ideological Leaning Project",
+    "text": "Executive Orders and Ideological Leaning Project\nThis study uses the executive order data set to develop an analysis of executive orders, with subsets of racial indicators, and create an ideological scale to identify different administrations’ positions through the dimension of race. The President signed executive orders to implement the policies and explain the priorities. Politics can be understood through the spatial mode (left and right are metaphors that relate to space in politics). The worldfish method can estimate policy space by using the provided text and without external information.\nLink to project"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "You can view my CV below or download it here."
+    "text": "You can view my CV below or download it here.\n\n[PDF viewer code reference] (https://www.nutrient.io/blog/open-pdf-in-your-web-app/“)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I am Jingyi Yang, a graduate student pursuing a Master of Science in Data Analytics and Computational Social Science at UMass Amherst. After earning a Bachelor’s degree in Sociology and Psychology, I realized the importance of data in the daily life and had a passion for using data for good. In short, I am interested in using the various programing tools to analyze data and applying data analysis in the decision making.\nTo learn more about me, please visit my Projects and CV pages. Let’s use data for good together!"
+    "text": "Hi! I am Jingyi Yang, a graduate student pursuing a Master of Science in Data Analytics and Computational Social Science at UMass Amherst. After earning a Bachelor’s degree in Sociology, I realized the importance of data in daily life and had a passion for using data for good. In short, I am interested in using various programming tools to analyze data and apply data analysis to support decision-making.\nTo learn more about me, please visit my CV and Projects pages. Let’s use data for good together!"
   }
 ]

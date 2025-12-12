@@ -2,13 +2,23 @@
 title: "Projects"
 ---
 
+## In-Vehicle Coupon Recommendation Project
 
-## Project 1
+This project aims to train a classification model that can predict whether a customer will accept a coupon. The survey data from Amazon Mechanical Turk include variables such as occupation, weather, and driving distance. It also covers demographic variables such as age, education level, and gender.
+
+Machine learning helps learning behavioral patterns from past data and provides predictions of coupon acceptance. This approach improves efficiency, reduces workload, and promotes strategies that can reduce expenses and increase revenue.
+
+[Link to project](https://www.kaggle.com/code/gloria822/final-project-jingyi-yang-in-vehicle-coupon-recomm)
+
+## SBS RISE CONNECT program Data Dashboard Project
+
+This is the data dashboard for the SBS RISE CONNECT program from UMass Amherst. The data come from regular program records and program evaluation surveys. 
+
+[Link to Data Dashboard](https://jingyiyang2002.shinyapps.io/SBS_RISE_DATA_DASHBOARD/)
 
 
-[Code](https://github.com/Jing202822/Executive-Orders-and-Ideological-Leaning)
+## Executive Orders and Ideological Leaning Project
 
-## Project 2
+This study uses the executive order data set to develop an analysis of executive orders, with subsets of racial indicators, and create an ideological scale to identify different administrations’ positions through the dimension of race. The President signed executive orders to implement the policies and explain the priorities. Politics can be understood through the spatial mode (left and right are metaphors that relate to space in politics). The worldfish method can estimate policy space by using the provided text and without external information.
 
-
-[Open Data Dashboard](https://jingyiyang2002.shinyapps.io/sbs_rise_connect_data_dashboard-1/)
+[Link to project](https://github.com/Jing202822/Executive-Orders-and-Ideological-Leaning)

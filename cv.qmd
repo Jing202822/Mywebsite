@@ -6,13 +6,15 @@ title: "CV"
 
 You can view my CV below or download it [here](files/Yang-MasterResume-20250905 (4).pdf).
 
-<div style="display:flex; justify-content:center; margin-top:20px;">
-  <iframe 
-      src="files/Yang-MasterResume-20250905 (4).pdf"
-      width="250%" 
-      height="900px"
-      style="border: none; box-shadow: 0 0 10px rgba(0,0,0,0.4);">
-  </iframe>
-</div>
+<embed src="files/Yang-MasterResume-20250905 (4).pdf"
+       type="application/pdf"
+       width="100%"
+       height="800px" /> 
+
+
+
+[PDF viewer code reference] (https://www.nutrient.io/blog/open-pdf-in-your-web-app/")
 
 :::
+       
+

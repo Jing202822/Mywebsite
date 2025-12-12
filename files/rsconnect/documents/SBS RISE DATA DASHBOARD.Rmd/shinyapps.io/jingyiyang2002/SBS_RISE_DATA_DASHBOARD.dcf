@@ -1,0 +1,12 @@
+name: SBS_RISE_DATA_DASHBOARD
+title: SBS_RISE_DATA_DASHBOARD
+username: jingyiyang2002
+account: jingyiyang2002
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16291477
+bundleId: 11306670
+url: https://jingyiyang2002.shinyapps.io/SBS_RISE_DATA_DASHBOARD/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
